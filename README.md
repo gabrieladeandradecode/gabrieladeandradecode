@@ -1,0 +1,3 @@
+- 👋 Olá, sou @gabrieladeandradecode
+- ✨ Ciência da Computação - 4° Período
+- 🌱 HTML, CSS e JavaScript
