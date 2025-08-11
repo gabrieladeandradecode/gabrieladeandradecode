@@ -1,3 +1,3 @@
 - 👋 Olá, sou Gabriela
-- ✨ Ciência da Computação - 5° Período
+- ✨ Ciência da Computação - 6° Período
 - 🌱 HTML, CSS e JavaScript
